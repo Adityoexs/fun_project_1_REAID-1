@@ -2,7 +2,7 @@
 
 Mini Quiz App adalah aplikasi kuis interaktif yang membantu pengguna mengetahui profesi yang cocok berdasarkan jawaban mereka. Dengan serangkaian pertanyaan yang mengarah ke tiga profesi utama—Programmer, Designer, dan Data Scientist—pengguna dapat menemukan pilihan profesi yang paling sesuai.
 
-![Screenshot 2025-06-12 233636](https://github.com/user-attachments/assets/ccdeb12b-a84d-4b86-b805-9ab58b634500)
+![Screenshot 2025-06-13 183824](https://github.com/user-attachments/assets/31c89141-c066-43fd-ba13-bfc1fa7d7181)
 
 ## Fitur Utama:
 - **Multiple Choice Questions (Radio Buttons)**: Menampilkan serangkaian pertanyaan dengan pilihan jawaban menggunakan **radio buttons**.
@@ -11,7 +11,7 @@ Mini Quiz App adalah aplikasi kuis interaktif yang membantu pengguna mengetahui 
 - **Tombol untuk Melihat Hasil**: Pengguna dapat menekan tombol untuk melihat hasil berdasarkan jawaban yang mereka pilih.
 
 ## Screenshot Aplikasi:
-![Screenshot 2025-06-12 233636](https://github.com/user-attachments/assets/ccdeb12b-a84d-4b86-b805-9ab58b634500)
+![Screenshot 2025-06-13 183824](https://github.com/user-attachments/assets/31c89141-c066-43fd-ba13-bfc1fa7d7181)
 
 *Contoh tampilan kuis dengan pilihan jawaban.*
 

@@ -109,7 +109,7 @@ for q, options in designer_qna.items():
             
             score_designer += 1
 
-st.title("Quiz :grey[Data Scientist] :thumbsup:")
+st.title("Tech-nical Quiz :grey[Data Scientist] :thumbsup:")
         
 for q, options in data_scientist_qna.items():
     user_answer = st.radio(q, options=options, key=q) 

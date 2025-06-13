@@ -79,7 +79,7 @@ programmer_qna ={
 }
 
 
-st.title(":blue[Mini Quiz App] - Menentukan Profesi yang Cocok Untuk Anda :thumbsup:")
+st.title(":blue[Tech-nical Quiz] - Menentukan Profesi yang Cocok Untuk Anda :thumbsup:")
 
 st.logo(
     image ="https://torrentfreak.com/images/amelie2-600x374.jpg",
@@ -109,7 +109,7 @@ for q, options in designer_qna.items():
             
             score_designer += 1
 
-st.title("Tech-nical Quiz :grey[Data Scientist] :thumbsup:")
+st.title("Quiz :grey[Data Scientist] :thumbsup:")
         
 for q, options in data_scientist_qna.items():
     user_answer = st.radio(q, options=options, key=q) 
